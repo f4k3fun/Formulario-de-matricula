@@ -3,9 +3,7 @@
 Protótipo de um formulário de matrícula escolar desenvolvido com foco em **design de interface**, **experiência do usuário** e **organização visual**, simulando o processo de inscrição de alunos em uma instituição de ensino.
 
 ## 📸 Pré-visualização
-Interface com formulário de matrícula ao lado de um painel informativo e ilustrativo, destacando a proposta educacional da escola.
-
-(capa.png)
+![Preview da landing page animada](capa.png)
 
 ## 🛠 Tecnologias utilizadas
 - HTML5
